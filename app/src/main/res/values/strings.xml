@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">CampusMVP</string>
+
+    <string name="exchange_user">切换账号</string>
+    <string name="current_user">账号信息</string>
+
+    <string name="prompt_email">账号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+
+
+    <string name="title_transcript_activity">成绩查询</string>
+
+    <!--campus-->
+    <string name="BUTTON">button</string>
+    <string name="TITLE">title</string>
+    <string name="MODE">mode</string>
+    <string name="SUCCESS">success</string>
+    <string name="FAIL">fail</string>
+    <string name="HTTP_SWU">http://login2.swu.edu.cn</string>
+    <string name="REFRESH_VALIDCODE">刷新验证码</string>
+    <string name="HAS_LOGED_OTHER_PLACE">\n你的账号已在其他地方登录,需要现在退出吗?</string>
+    <string name="OUTING">退出中...</string>
+    <string name="VALIDCODE_ERROR">验证码错误</string>
+    <string name="CANCEL">取消</string>
+    <string name="OK">确认</string>
+
+    <!--aboutactivity-->
+
+    <string name="EXCHANGE">切换</string>
+    <string name="LOGIN">登陆</string>
+    <string name="COUNT_LOGIN">账号登陆</string>
+
+    <string name="NOT_CONNECT_SWUWIFI">请连接到校园网WIFI</string>
+    <string name="WIFI_CONNECT">连接</string>
+    <string name="about">
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;1、本软件的所有内容，包括文字、图片等均在网上搜集，本软件不保证所有内容的真实性。\n
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;2、本软件使用者将本软件提供的内容或服务用于个人学习、研究，以及其他非商业性或非盈利性用途，但同时应遵守著作权法及其他相关法律的规定，不得侵犯相关权利人的合法权利。\n
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;3、本软件的任何内容或服务用于其他用途时，须征得相关权利人的书面许可。\n
+        &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;4、本软件内容或服务侵犯到相关权利人的合法权利时，请及时通知本软件，予以及时修改、删除相关内容或服务。\n\n
+        \n
+        邮箱：huanjinzi@qq.com
+        \n
+        Q Q：896458481
+        \n
+        \n
+
+    </string>
+
+    <string name="design_by">design by campus</string>
+    <string name="csdn_url">http://blog.csdn.net/qq_25923235</string>
+    <string name="github_url">https://github.com/huanjinzi/campusmvp</string>
+
+    <string-array name="title">
+        <item>软件协议</item>
+        <item>作者博客</item>
+        <item>项目地址</item>
+    </string-array>
+
+    <string-array name="content">
+        <item>当前版本1.0.3</item>
+        <item>CSDN</item>
+        <item>获取新版本</item>
+    </string-array>
+</resources>
